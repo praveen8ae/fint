@@ -1,0 +1,61 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# IDE
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Database
+
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+
+*.log
+
+# Build / Packaging
+
+build/
+dist/
+*.spec
+
+# Qt / PySide temporary files
+
+*.qmlc
+*.jsc
+*.rcc
+
+# Testing / coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment files
+
+.env
+.env.local
+
+# Generated assets / exports
+
+exports/
+screenshots/
+temp/
